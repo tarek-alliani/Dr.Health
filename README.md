@@ -51,4 +51,4 @@ const API_KEY = 'your-api-key-here';
 ### Multi-language support
 
 ## License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under ALPHA.DEV License. But U Can Download It Btw (Look At My Other Repos hehe).
