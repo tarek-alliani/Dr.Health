@@ -1,6 +1,5 @@
-# Dr.Health - Medical Image-Analysis & Chat
-
-Analyzing medical images and providing health-related advice. This app allows users to upload images (e.g., X-rays, MRI scans, or even fridge contents) and receive AI-generated insights or meal suggestions based on the uploaded content.[Click Here To Visit The Website Version](https://tarek-alliani.github.io/Dr.Health)
+# Dr.Health
+- Analyzing medical images and providing health-related advice. Upload images (e.g., X-rays, MRI scans, or even fridge contents) and receive insights or meal suggestions based on That.[Click To Visit Web Version](https://tarek-alliani.github.io/Dr.Health)
 
 ---
 
