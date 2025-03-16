@@ -1,12 +1,11 @@
 # Dr.Health
-- Analyzing medical images and providing health-related advice. Upload images (e.g., X-rays, MRI scans, or even fridge contents) and receive insights or meal suggestions based on That.[Click To Visit Web Version](https://tarek-alliani.github.io/Dr.Health)
+- Health-related advice. Based On text or images.[Click To Visit Web Version](https://tarek-alliani.github.io/Dr.Health)
 
 ---
 
 ### Features
-- **Professional Health Ai Chat**.
-- **Image Analysis**.
-- **Health Advice**.
+- **Professional Health Chat**: Receive Advice or insights or meal suggestions based on Input Type.
+- **Image Analysis Advice**: (e.g., X-rays, MRI scans, or even fridge contents).
 - **Sweet Look & Responsive Design**.
 - **Multi-language support**.
 
