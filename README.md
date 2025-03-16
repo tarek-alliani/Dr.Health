@@ -35,7 +35,7 @@
 ## Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/tarek-aliani-1/Dr.Health.git
+git clone https://github.com/tarek-alliani/Dr.Health.git
 ```
 2. Replace API_KEY in the script with your Google Gemini API key:
 ```javascript
